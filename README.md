@@ -22,7 +22,7 @@
 |주차|내용|발표자|일자|
 |---|:-----|---|---|
 |1주차|Machine Learning|||
-|2주차|scikit-learn|||
+|2주차|scikit-learn|[Sohee](https://github.com/SoheeKim12)||
 |3주차|Linear Models|||
 |4주차|Logistic Regression|||
 |5주차|Support Vector Machine|||
